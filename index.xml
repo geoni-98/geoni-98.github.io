@@ -5,5 +5,24 @@
         <description>Geon`s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Jul 2025 17:35:55 &#43;0900</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>MyDog</title>
+    <link>http://example.org/posts/mydog/</link>
+    <pubDate>Thu, 17 Jul 2025 00:42:40 &#43;0900</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://example.org/posts/mydog/</guid>
+    <description><![CDATA[<h1 id="dog" class="headerLink">
+    <a href="#dog" class="header-mark"></a>DOG</h1><p><img class="tw-inline" loading="lazy" src='/images/dog.jpg'   alt="강아지 사진"  >
+잠만 자는 시루.</p>]]></description>
+</item><item>
+    <title>MyLife</title>
+    <link>http://example.org/posts/mylife/</link>
+    <pubDate>Wed, 16 Jul 2025 15:06:02 &#43;0900</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://example.org/posts/mylife/</guid>
+    <description><![CDATA[<h1 id="인턴생활" class="headerLink">
+    <a href="#%ec%9d%b8%ed%84%b4%ec%83%9d%ed%99%9c" class="header-mark"></a>인턴생활</h1><p>역시나 쉬운게 아니다. 당연히 어려운 것이다.</p>
+<h2 id="출퇴근" class="headerLink">
+    <a href="#%ec%b6%9c%ed%87%b4%ea%b7%bc" class="header-mark"></a>출퇴근</h2><p>판교역까지 오고 가는 버스를 타기가 힘듦.</p>]]></description>
+</item></channel>
 </rss>
